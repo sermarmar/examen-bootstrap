@@ -5,8 +5,16 @@ Este examen tiene como objetivo evaluar tus conocimientos en el uso de la tecnol
 
 ## Requisitos
 1. **Navegador**: Debe incluir enlaces de navegación y estar estilizado con Bootstrap.
-2. **Cartas**: Deben contener imágenes y texto, y estar organizadas en una cuadrícula responsiva (5 columnas para pantalla grande, 3 columnas para pantalla mediana y 1 columna para móvil).
+![Imagen 1](./readme/navigation.png)
+<img src="./readme/menu_iphone.png" alt="Imagen 1" width="300">
+<img src="./readme/menu_macs.png" alt="Imagen 1" width="300">
+
+2. **Cartas**: Deben contener imágenes y texto, y estar organizadas en una cuadrícula responsiva (6 columnas para pantalla grande, 3 columnas para pantalla mediana y 1 columna para móvil).
+![Imagen 1](./readme/grid-lg.png)
+![Imagen 1](./readme/grid-md.png)
+![Imagen 1](./readme/grid-movil.png)
 3. **Pie de página**: Debe incluir información de contacto y enlaces a redes sociales, estilizado con Bootstrap.
+![Imagen 1](./readme/footer.png)
 
 ## Instrucciones
 1. Crea un nuevo proyecto y añade el archivo `index.html`.
