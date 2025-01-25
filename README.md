@@ -22,7 +22,7 @@ Este examen tiene como objetivo evaluar tus conocimientos en el uso de la tecnol
 3. Implementa el navegador utilizando componentes de Bootstrap.
 4. Crea una sección de cartas utilizando el componente de cartas de Bootstrap.
 5. Añade un pie de página estilizado con Bootstrap.
-6. Implementa un modal que se active al hacer clic en cada carta. El modal debe mostrar una imagen y texto relacionado con la carta seleccionada, utilizando los componentes de Bootstrap.
+6. Implementa un modal que se active al hacer clic en cada carta. El modal debe aparecer con el título "Añadir al carrito" y el texto sería "¿Estás seguro que quieres añadir al carro para comprar?. Como en la captura de abajo:
 ![Imagen 1](./readme/modal.png)
 
 ## Nota Extra
